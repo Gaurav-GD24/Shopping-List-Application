@@ -47,4 +47,4 @@ This project was created as a learning exercise. Feel free to contribute by sugg
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
 
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://shoppinglistapplication.netlify.app]
